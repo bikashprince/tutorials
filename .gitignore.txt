@@ -1,0 +1,2 @@
+Added content in gitignore
+Now added data from github website
